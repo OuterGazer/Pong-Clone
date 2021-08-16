@@ -13,5 +13,5 @@ I implemented the following features as extra from the original lab work:
 - A background texture.
 - Now the ball starts at a paddle instead of moving directly on the field.
 - Extra controls like pressing P to pause/unpause, Esc for quitting and space for serving the ball after scoring.
-- The ball's speed increases slightly after each succesful paddle hit up to a max speed.
+- The paddles' and ball's speeds increase slightly after each succesful paddle hit up to a max speed.
 - Fixed a nasty bug in the original code where the ball would either get trapped behind the paddle or score a self goal if hit with the upper or lower edges of the paddle. Now this doesn't happen.
