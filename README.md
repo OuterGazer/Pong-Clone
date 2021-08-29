@@ -1,6 +1,11 @@
 # Pong-Clone
 A Pong clone developed with the XNA Framework as part of Rob Mile's "The Yellow Book" lab work.
 
+Gameplay Preview
+
+![Pong Clone](https://user-images.githubusercontent.com/71871620/131250632-b35cb44f-fab9-4437-ab7d-bab23d596622.gif)
+
+
 My first game using a graphical interface.
 
 To play it, you need to download the zip file, extract everything and run setup.exe.
